@@ -1,0 +1,13 @@
+https://github.com/christinagutierrez/eyh
+https://github.com/erikmoldovan/generator-marman
+https://github.com/erikmoldovan/music_trivia_bot
+https://github.com/erikmoldovan/okcupid-test
+https://github.com/erikmoldovan/moldyworks_lab
+https://github.com/erikmoldovan/coalesce
+https://github.com/erikmoldovan/galileo-test
+https://github.com/robertmaier/pr-body-replace-action
+https://github.com/robertmaier/codingdojo-javascript
+https://github.com/robertmaier/gh-action-test
+https://github.com/robertmaier/hydration-test
+https://github.com/robertmaier/browser-extension-template
+https://github.com/robertmaier/simple-todomvc-extension

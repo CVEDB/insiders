@@ -1,0 +1,2 @@
+https://github.com/trongthanh/geany-osx-essentials
+https://github.com/trongthanh/ubuntu-vi-ibus-setup

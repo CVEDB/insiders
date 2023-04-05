@@ -1,0 +1,16 @@
+https://github.com/kurtbrown/sprite
+https://github.com/pamelams/SistemaProdutividadeAcademica
+https://github.com/pamelams/datasciencecoursera
+https://github.com/pamelams/SistemaProdutividade
+https://github.com/pamelams/cursoBD
+https://github.com/pamelams/Final-Project-HTML5
+https://github.com/pamelams/Local-Project
+https://github.com/pamelams/VHDL-project
+https://github.com/pamelams/ProgrammingAssignment3
+https://github.com/pamelams/metodos_numericos
+https://github.com/pamelams/iFace-2019.1
+https://github.com/pamelams/Final-Project-CSS3
+https://github.com/pamelams/iFace
+https://github.com/pamelams/Testing-RStudio
+https://github.com/pamelams/data-structures
+https://github.com/pamelams/SistemaProdutividadeRefatorado

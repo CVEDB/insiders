@@ -1,0 +1,10 @@
+https://github.com/jamesgrandin/TradingAlgoBacktest
+https://github.com/jamesgrandin/SentinementAnalysisClassProject
+https://github.com/jamesgrandin/ML-Projects
+https://github.com/jamesgrandin/MACrossStratBacktest
+https://github.com/jeroenv/NSURLRequestIgnoreSLL-Phonegap-Plugin
+https://github.com/robmaas/Sitecore.SharedSource.Mvc
+https://github.com/robmaas/Sitecore.SharedSource.DatasourceIndexer
+https://github.com/robmaas/Sitecore.WFFM.CustomMailTemplates
+https://github.com/robmaas/Estate.Umbraco.Core
+https://github.com/SalesSecurity/portfolio

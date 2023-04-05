@@ -1,0 +1,2 @@
+https://github.com/JohnB/meteor-poker-calculator
+https://github.com/yangeric/docker-nginx-rtmp

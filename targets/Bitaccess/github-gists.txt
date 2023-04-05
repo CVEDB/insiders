@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/charlesfindlay/09ece8f0052b04a8e9c6f51961c31221/raw/c16aedbf94e87245bcecde14cc2381e5f84b4c0c/contains.py
+https://gist.githubusercontent.com/dylanseago/b0805fa40d1cb28a3ccd13334334f967/raw/98d9b6366176a5935b1c075aed58fbf93a1747dc/gistfile1.txt

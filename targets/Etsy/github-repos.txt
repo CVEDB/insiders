@@ -1,0 +1,14 @@
+https://github.com/AlexaHernandez/alexahernandez.github.io
+https://github.com/AlexaHernandez/movie-recommender
+https://github.com/AlexaHernandez/music-genre-classification
+https://github.com/AlexaHernandez/reliable-data-transfer
+https://github.com/MrinaliniShukla/npuinventorymgmt
+https://github.com/SeniorEngineer/NBA
+https://github.com/SeniorEngineer/Vue-Green-TakeOut
+https://github.com/SeniorEngineer/vue-demo
+https://github.com/TaraYoung/GWCFirstApp
+https://github.com/TaraYoung/Calculator
+https://github.com/TaraYoung/RankingList
+https://github.com/TaraYoung/Bookshelf
+https://github.com/TaraYoung/git_hoth
+https://github.com/TaraYoung/MyFirstRepo

@@ -1,0 +1,8 @@
+https://github.com/NickCull/OpenWeatherMap-API
+https://github.com/NickCull/Rock-Paper-Scissors
+https://github.com/NickCull/Sales-Engineer-API
+https://github.com/NickCull/Udacity-Pixel-Art-Maker
+https://github.com/NickCull/Udacity-Animal-Trading-Card
+https://github.com/santiagoaguiar/ip-blacklist-rules
+https://github.com/santiagoaguiar/octotests
+https://github.com/shadabkhan/MY_REP

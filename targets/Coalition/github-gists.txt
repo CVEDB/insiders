@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/johnnorton/3c26d6184e86330489ddf6a5d98848c8/raw/64a609e56c06972cf4063c266af1edec7d436c17/variables.tf

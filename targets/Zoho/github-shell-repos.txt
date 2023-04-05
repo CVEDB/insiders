@@ -1,0 +1,2 @@
+https://github.com/varnav/BaseStation.sqb
+https://github.com/varnav/eos-node-docker

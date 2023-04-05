@@ -1,0 +1,2 @@
+https://github.com/maciejszewczyk/wunderlist_bash
+https://github.com/patrickdano/polybar

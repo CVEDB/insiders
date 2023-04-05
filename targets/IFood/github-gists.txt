@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/rafaelGuerreiro/2fdab70f1545fbc2b64b130b6db8bde1/raw/c9a38d4dcb7c249e933560cb65cd8bc9a7ba5e9a/array_flattener.rb
+https://gist.githubusercontent.com/rafaelGuerreiro/2fdab70f1545fbc2b64b130b6db8bde1/raw/e9e05de90dec84fb8fb8f9e1d0e45330dd48e3bd/array_flattener_spec.rb

@@ -1,0 +1,14 @@
+https://github.com/coco/gitsup
+https://github.com/coco/hello
+https://github.com/kylecarter/ict-4370-python-programming
+https://github.com/kylecarter/ict-4510-advncd-wbst-dvlpmnt
+https://github.com/kylecarter/portfolio
+https://github.com/kylecarter/ict-4580-mobile-app-development
+https://github.com/kylecarter/ict-4505-website-design-management
+https://github.com/kylecarter/employee_directory
+https://github.com/kylecarter/kylecarter
+https://github.com/kylecarter/gains-octo-repo
+https://github.com/kylecarter/ict-4540-xml-data-app-dvlpmnt
+https://github.com/kylecarter/ict4515-usability-design
+https://github.com/kylecarter/jquery.squeeze
+https://github.com/kylecarter/bank

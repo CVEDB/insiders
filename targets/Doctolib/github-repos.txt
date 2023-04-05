@@ -1,0 +1,4 @@
+https://github.com/davidlindner/cycript_Utils
+https://github.com/davidlindner/snoop-it
+https://github.com/davidlindner/TouchIDFail
+https://github.com/keymanager/keymanager

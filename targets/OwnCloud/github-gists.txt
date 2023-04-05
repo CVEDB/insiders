@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/mathiasconradt/31d45f5a16b71034b3c33cca79f3fb9e/raw/0237c957d10e74799536fbfee4f90580f3788c51/snyk.postman_collection.json
+https://gist.githubusercontent.com/mathiasconradt/8a306d0869f3a39854891b05cb8ea71a/raw/84a49089aa1018fc8d23ab0c6e677b88f98c7cac/keybase.md

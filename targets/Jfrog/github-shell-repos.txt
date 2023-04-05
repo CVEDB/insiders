@@ -1,0 +1,8 @@
+https://github.com/miguelgarcia/learning-devops
+https://github.com/miguelgarcia/todos
+https://github.com/miguelgarcia/jxx
+https://github.com/mohammadtibi/Scripts
+https://github.com/svenruppert/docker-image-generator
+https://github.com/taly/heroku-buildpack-mecab-ipadic-neologd
+https://github.com/williammanning/nj-docker-support
+https://github.com/williammanning/pipelines_workshop

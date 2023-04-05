@@ -1,0 +1,3 @@
+https://github.com/haochi/mac-setup
+https://github.com/haochi/setup_scripts
+https://github.com/nicholasc/zsh-prompt

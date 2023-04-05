@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/gila/58636ed3d5b60a9ca33ca511aaa7bbbf/raw/3d3b5338b419b6bea7ab2ed694faf4394d490175/example.rs
+https://gist.githubusercontent.com/gila/a6c504413755f03820b3f2223fd237d5/raw/5fc2cbe8ffcdb530cba97cc2bc1cf0fc944b49ad/vcomm_example_telnet_echo.c

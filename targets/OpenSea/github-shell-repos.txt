@@ -1,0 +1,6 @@
+https://github.com/sergeylukin/dotfiles-xfce
+https://github.com/sergeylukin/rtorrent-spritzer
+https://github.com/sergeylukin/cfgmock
+https://github.com/sergeylukin/netwalk-cordova
+https://github.com/sergeylukin/npmlock.sh
+https://github.com/sergeylukin/render-debug-scenario

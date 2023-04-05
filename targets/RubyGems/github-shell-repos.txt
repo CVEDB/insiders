@@ -1,0 +1,5 @@
+https://github.com/donbecker/donb.linuxacademy
+https://github.com/donbecker/jnlp-slave-awscli
+https://github.com/rohitjoshi/lang-compare
+https://github.com/sanketparmar/toys
+https://github.com/yamilurbina/dotfiles

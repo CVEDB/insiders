@@ -1,0 +1,8 @@
+https://github.com/ElieKassis/Java-Card
+https://github.com/ElieKassis/Elie
+https://github.com/pubgplayer/task4_firestorestreambuilder
+https://github.com/pubgplayer/Audio_app
+https://github.com/pubgplayer/fluttertry
+https://github.com/pubgplayer/task6_animationapp
+https://github.com/pubgplayer/task3_firestore
+https://github.com/pubgplayer/task5_chat-app

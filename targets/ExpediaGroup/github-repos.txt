@@ -1,0 +1,14 @@
+https://github.com/ammaridrees/Java-Against-Humanity
+https://github.com/ammaridrees/Addiction-Prevention-Safe
+https://github.com/ammaridrees/Wait-Less
+https://github.com/ErickCisneros/angular-tour-of-heroes
+https://github.com/ErickCisneros/react-my-app
+https://github.com/ErickCisneros/angular-rick-and-morty
+https://github.com/ErickCisneros/angular-manuales
+https://github.com/ErickCisneros/ionic-qrcode
+https://github.com/ErickCisneros/angular-dynamic-component
+https://github.com/ErickCisneros/angular-ngrx
+https://github.com/ErickCisneros/ionic-radio
+https://github.com/ErickCisneros/ng-testing-services
+https://github.com/ErickCisneros/ionic-my-app
+https://github.com/seang/seangillespie.dev

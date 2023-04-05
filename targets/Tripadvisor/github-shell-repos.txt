@@ -1,0 +1,3 @@
+https://github.com/andybriggs/.bash_profile
+https://github.com/Davidmattei/ems-local-services
+https://github.com/Davidmattei/ems-developer

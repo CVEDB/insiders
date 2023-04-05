@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/nickwells/c474e2c75263740108e59778b72e8b25/raw/d75a826c90c16d6bb0df8654d34526bb0ac94361/fmt.Format.go

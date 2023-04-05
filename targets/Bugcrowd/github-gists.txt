@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/MesumRaza/4635254adcb9702befe59dbb217f7678/raw/fd9cde71a01ebc653993e4d4a7d564df709ccdd3/astronauts.sql
+https://gist.githubusercontent.com/MesumRaza/dff1435ae97eadbc58be33c86d48ef0b/raw/dd71423c01ba6ff3da20bc2dfe883ac812d92826/embedded-file-viewer.md

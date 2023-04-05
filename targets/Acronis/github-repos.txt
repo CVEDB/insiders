@@ -1,0 +1,15 @@
+https://github.com/calvinmclean/stagg-ekg-plus
+https://github.com/calvinmclean/homebridge-kettle
+https://github.com/calvinmclean/automated-garden
+https://github.com/calvinmclean/ansible-guacamole-server
+https://github.com/calvinmclean/ansible-formatter
+https://github.com/calvinmclean/parking-sensor
+https://github.com/calvinmclean/sandwiches
+https://github.com/davidsilva/music-master-implicit-grant-flow
+https://github.com/davidsilva/noise-pyclass
+https://github.com/davidsilva/git-issues-app
+https://github.com/davidsilva/reddit-comments
+https://github.com/davidsilva/php-silva
+https://github.com/davidsilva/reddit-app
+https://github.com/davidsilva/paragraph-entry-react
+https://github.com/olegmelnikov/github-slideshow

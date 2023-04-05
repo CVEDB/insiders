@@ -1,0 +1,4 @@
+https://github.com/denismatveev/AWS
+https://github.com/denismatveev/xtra-cron-scripts
+https://github.com/denismatveev/zabbix-rdiff-backup
+https://github.com/denismatveev/zabbix-rkhunter

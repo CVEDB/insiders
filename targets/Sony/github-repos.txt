@@ -1,0 +1,16 @@
+https://github.com/karenannell/DebuggingPractice
+https://github.com/karenannell/database-search
+https://github.com/karenannell/Skyline_Prophet
+https://github.com/karenannell/DIA_UMPIRE-class
+https://github.com/MichaelSchmidt/htmlTestSuite
+https://github.com/RakshaShenoy/testgit
+https://github.com/ruoshiliu/Natasha2
+https://github.com/ruoshiliu/Orientation-Field-Prediction
+https://github.com/ruoshiliu/TDD-Net
+https://github.com/ruoshiliu/DefectsTracker
+https://github.com/ruoshiliu/ML_ActiveNematicsImage
+https://github.com/ruoshiliu/JavaDemo
+https://github.com/ShawnMoffatt/MovieNominationsApp
+https://github.com/ShawnMoffatt/SortingVisualizer
+https://github.com/SonyGeorge/spring-rest-jpa
+https://github.com/sonyteam/sony

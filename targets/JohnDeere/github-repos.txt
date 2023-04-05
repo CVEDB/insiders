@@ -1,0 +1,4 @@
+https://github.com/ChristopherBradshaw/UMN-CSCI-2041
+https://github.com/ChristopherBradshaw/UMN-CSCI-4061
+https://github.com/ChristopherBradshaw/minneapolis-pathfinder
+https://github.com/ChristopherBradshaw/record-indexer

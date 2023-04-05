@@ -1,0 +1,2 @@
+https://github.com/edvillanueva/LinuxProj-POS
+https://github.com/edvillanueva/cloudflare-domain-upload

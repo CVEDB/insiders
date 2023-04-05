@@ -1,0 +1,7 @@
+https://gist.githubusercontent.com/garyng/4f0a461eb7524b37b8a440d8bbff5a2a/raw/df84d1384ace89f3d69962e74e746428e18c310f/RoutedViewEx.cs
+https://gist.githubusercontent.com/garyng/3a597234d8a24544da5485e8cb1e4f61/raw/acb7228c74f532de7e70c52c7f1673c5e322d32c/ZenSharp%20Documentation
+https://gist.githubusercontent.com/MatthewIreland/81e75b4653a3812fca2c02741ba21e34/raw/cd61a54fa859b1075d4c118e10b568372c426aca/XenOnHorsemanship.vert
+https://gist.githubusercontent.com/MatthewIreland/7ae5f04a756c564aa71d194cda1601ef/raw/3f247a5356a9b531c6ad93d37cd62181ae0f3420/vs_debug_test.log
+https://gist.githubusercontent.com/MatthewIreland/7f0436707cd5fdf1484d73bef82cb0fe/raw/b2397243ed0c46429765080a24f4a4863f7ba5eb/vs_output_cmake.log
+https://gist.githubusercontent.com/MatthewIreland/cd25d8665cb4696852c4/raw/86fadb64c6b5c2aefb237681ece43a0d53abbd53/SeptemberChallenge.py
+https://gist.githubusercontent.com/MatthewIreland/a8392be57899cd2a9366/raw/85db2661e6bfd7cf4c9fd16e72833dedda7993ab/talks_spectrum.tex

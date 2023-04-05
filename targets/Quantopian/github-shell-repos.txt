@@ -1,0 +1,1 @@
+https://github.com/joonyoo/snowflake_lambda_layer

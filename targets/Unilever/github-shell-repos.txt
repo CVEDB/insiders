@@ -1,0 +1,2 @@
+https://github.com/Quynh-Nguyen/ansible-macos-developer
+https://github.com/QuynhNguyen/dotfiles

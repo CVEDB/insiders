@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/igoralmeida/4a993deb37c4f5815b805b7e4f17805f/raw/eb1cd4b4d7ea8ce175b8131e7d868b79cf1a034b/sensible-pdf.el
+https://gist.githubusercontent.com/igoralmeida/218188/raw/e5fdfd305844827ca84cdbeb6ba3837baf3dc2c4/gistfile1.txt

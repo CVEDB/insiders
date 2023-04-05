@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/sebastienD/4831e52317d9b6503193544c85056aa5/raw/4b96a3abaa79c033813ab941c87dc82a9262352b/osx_install.sh
+https://gist.githubusercontent.com/sebastienD/4923d0fd468b4a414c4bf55d82b00150/raw/70a89fe22ccb812fc40bc67f5be1f33b6152a5be/osx-10.9-setup.md

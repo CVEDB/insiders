@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/BowenFu/215b4ac29eaf61005cbaf141f16b2760/raw/d07a78dc8bf4584a255994a6332f6c382c241c68/envelope.py
+https://gist.githubusercontent.com/BowenFu/700dfb177da9b5016bbb06121eab0da3/raw/47c7fc50856c31d601ce545d52bd8bc817e584c5/offset_text.py

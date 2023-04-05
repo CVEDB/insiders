@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/EliSchwartz/386f420fa3547604c8f8bf872731bd3c/raw/4ec45340c9e1e2bdc029068b1862b9d84daee8c5/.bash_aliases

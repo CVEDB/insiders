@@ -1,0 +1,4 @@
+https://github.com/collinlee/WearablePack-SamsungGear2
+https://github.com/collinlee/MotionPrototype
+https://github.com/collinlee/Matchismo
+https://github.com/collinlee/assignments

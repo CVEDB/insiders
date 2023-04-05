@@ -1,0 +1,14 @@
+https://github.com/francescostumpo/Ticket-generator
+https://github.com/francescostumpo/iJ2C-ui
+https://github.com/francescostumpo/ecommerce-ui
+https://github.com/francescostumpo/ecommerce-administration-ui
+https://github.com/francescostumpo/ai4cm-lawtech
+https://github.com/francescostumpo/idm-frontend
+https://github.com/francescostumpo/shipping-service
+https://github.com/francescostumpo/iJ2C-pf-evo
+https://github.com/francescostumpo/tourapp-backend
+https://github.com/francescostumpo/tourapp-ui
+https://github.com/francescostumpo/streusaapp
+https://github.com/ShannonCusick/gatsbypreview
+https://github.com/ShannonCusick/Project
+https://github.com/zoelubitz/jarvis

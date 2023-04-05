@@ -1,0 +1,9 @@
+https://github.com/andreasweber/groovy.aweber.mp3selector
+https://github.com/andreasweber/KhunPhanDroid
+https://github.com/andreasweber/SMILA_android
+https://github.com/andreasweber/SMILA
+https://github.com/brandonblack/musig-js
+https://github.com/danielarmendariz/IntroToJavaWorkshop
+https://github.com/danielarmendariz/ProcessingSketches
+https://github.com/ronfish/testme
+https://github.com/vishalgupta/Test

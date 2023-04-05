@@ -1,0 +1,6 @@
+https://gist.githubusercontent.com/Davidmattei/181a84c8130dfc0795a221de7c54dba8/raw/1e397675efa45f71cfc98849f08b262b09e4420f/.zshr
+https://gist.githubusercontent.com/parthahluwalia/20a0112d18683ee1d965dd40882f83a3/raw/2b8a5ccf55d94d29328a24ef3913ffb54841429c/0_reuse_code.js
+https://gist.githubusercontent.com/parthahluwalia/20a0112d18683ee1d965dd40882f83a3/raw/b16d3e65da4810d1bf24fd231028f3775f7dcede/1_ruby_quicksort.rb
+https://gist.githubusercontent.com/parthahluwalia/20a0112d18683ee1d965dd40882f83a3/raw/df51b18a3a36024d04f9348bd4e24f6991e41a02/2_keyboard_shortcuts.md
+https://gist.githubusercontent.com/parthahluwalia/20a0112d18683ee1d965dd40882f83a3/raw/f030315106c2b8dc0f52ad861f67223f88d4e35f/3_cheesecake_recipe.md
+https://gist.githubusercontent.com/thomasnguyen/e962e608ec9c4ed379b93724af48eb8d/raw/11a743881a9bb0534c629c0ed156f2235e69dc92/budget.md

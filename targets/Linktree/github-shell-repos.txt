@@ -1,0 +1,2 @@
+https://github.com/karolykass/learn-packer
+https://github.com/karolykass/docker-scripts

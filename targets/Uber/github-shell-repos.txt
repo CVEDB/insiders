@@ -1,0 +1,2 @@
+https://github.com/peterwu/copr-iosevka
+https://github.com/peterwu/copr-rendezvous

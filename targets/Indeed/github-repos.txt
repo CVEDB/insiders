@@ -1,0 +1,11 @@
+https://github.com/BrendanWorks/BrendanWorks
+https://github.com/bryanstephenson/Secure-Coding-Principles
+https://github.com/hannahlindsley/xbar-dsl
+https://github.com/hannahlindsley/textie
+https://github.com/hannahlindsley/ontologyOfThings
+https://github.com/hannahlindsley/hypothetical
+https://github.com/hannahlindsley/frameYourQuestion
+https://github.com/Joannawu/AI-builder
+https://github.com/josemba/ob-angular-spring
+https://github.com/josemba/ob-spring-security-jwt
+https://github.com/kateterry/kateterry.github.io

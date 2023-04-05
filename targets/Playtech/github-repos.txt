@@ -1,0 +1,9 @@
+https://github.com/MarkusZimmermann/RoadRunner
+https://github.com/MarkusZimmermann/stopwatch
+https://github.com/oferben/HW
+https://github.com/oferben/CrowdOpinionServer
+https://github.com/oferben/CrowdOpinionClient
+https://github.com/santoshk/jhipster-sample-applicationTwo
+https://github.com/santoshk/jhipster-sample-applicationOne
+https://github.com/santoshk/jhipster-sample-application
+https://github.com/santoshk/jhipster-sample-applicationthree

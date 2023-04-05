@@ -1,0 +1,14 @@
+https://github.com/jinsukLee/scm
+https://github.com/JonathanS/datasciencecoursera
+https://github.com/JonathanS/jonathans.github.io
+https://github.com/JoshuaMeltzer/test
+https://github.com/nicks/closure-compiler-old
+https://github.com/nicks/book-countdown
+https://github.com/nicks/protofs
+https://github.com/nicks/gotestalot
+https://github.com/nicks/dotfiles
+https://github.com/nicks/nick-santos.com
+https://github.com/nicks/tilt-issue1982
+https://github.com/nicks/protoc-node
+https://github.com/nicks/defercheck
+https://github.com/tedkey/tedkey

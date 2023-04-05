@@ -1,0 +1,2 @@
+https://github.com/jenshadlich/ceph-vagrant
+https://github.com/jenshadlich/kafka-demo

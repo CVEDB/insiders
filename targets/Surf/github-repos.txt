@@ -1,0 +1,8 @@
+https://github.com/chrisgillings/helloworld
+https://github.com/chrisgillings/Ansible
+https://github.com/chrisgillings/EffectiveDevOpsTemplates
+https://github.com/chrisgillings/puppet
+https://github.com/MarcinPalanis/PLCProgramms
+https://github.com/NikitaG/WikiArticleExtractor
+https://github.com/NikitaG/onion
+https://github.com/NikitaG/Algorithms

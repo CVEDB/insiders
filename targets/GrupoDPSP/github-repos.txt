@@ -1,0 +1,13 @@
+https://github.com/Amandafreitas/MySQL---First-Steps
+https://github.com/flaviojesus/php
+https://github.com/helenoalves/pokerit
+https://github.com/helenoalves/easymoto
+https://github.com/helenoalves/loopback-connector-kiss
+https://github.com/helenoalves/challenge
+https://github.com/helenoalves/severino
+https://github.com/helenoalves/poll-maker
+https://github.com/RicardoOliveira/ESPProLib
+https://github.com/RicardoOliveira/FriendDetector
+https://github.com/viniciusfreitas/instagrowth
+https://github.com/viniciusfreitas/crawler-mercado-livre
+https://github.com/viniciusfreitas/cursogojeffprestes

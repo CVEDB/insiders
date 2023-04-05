@@ -1,0 +1,7 @@
+https://gist.githubusercontent.com/justinslack/ffbf83634a56508bfae97a8b2872ffdd/raw/17c74f4ae9a7a5472fbce03b0957bf6ddbdfeb9d/flex-table.html
+https://gist.githubusercontent.com/justinslack/272735a38417dc1d5a87a29f73f31c3f/raw/de7220b14ee53e52a6d9d0b8ea15f22d71012c01/sharing.js
+https://gist.githubusercontent.com/justinslack/0e82b1d4086f96128a95ff7b7bb6930b/raw/2b8a5ccf55d94d29328a24ef3913ffb54841429c/0_reuse_code.js
+https://gist.githubusercontent.com/justinslack/0e82b1d4086f96128a95ff7b7bb6930b/raw/b16d3e65da4810d1bf24fd231028f3775f7dcede/1_ruby_quicksort.rb
+https://gist.githubusercontent.com/justinslack/0e82b1d4086f96128a95ff7b7bb6930b/raw/df51b18a3a36024d04f9348bd4e24f6991e41a02/2_keyboard_shortcuts.md
+https://gist.githubusercontent.com/justinslack/0e82b1d4086f96128a95ff7b7bb6930b/raw/f030315106c2b8dc0f52ad861f67223f88d4e35f/3_cheesecake_recipe.md
+https://gist.githubusercontent.com/justinslack/1a128cca2acde59bdb53/raw/cf782d24061600457776f5cc651a3016152e67b8/html-entities.md

@@ -1,0 +1,11 @@
+https://github.com/alextreppass/game-icons-downloader
+https://github.com/alextreppass/ytpld
+https://github.com/ingojoseph/labelit.js
+https://github.com/PavelKriz/Easy-image-editor-in-Python-
+https://github.com/PavelKriz/Image-resizer-for-ESN-activities
+https://github.com/PavelKriz/pulse_detector
+https://github.com/PavelKriz/Console-Image-Viewer
+https://github.com/PavelKriz/Configurable-Pacman
+https://github.com/PavelKriz/PGRproject
+https://github.com/PavelKriz/PavelKriz.github.io
+https://github.com/PavelKriz/LBP_GIMP_plugin

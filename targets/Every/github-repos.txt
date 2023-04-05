@@ -1,0 +1,15 @@
+https://github.com/roberttakesue/Informatics_Capstone
+https://github.com/roberttakesue/UsableAI513
+https://github.com/roberttakesue/synchrony
+https://github.com/rohitsharma/Musicmashup
+https://github.com/tobiaszwingmann/paper-scraper
+https://github.com/tobiaszwingmann/eda_revenue_optimization
+https://github.com/tobiaszwingmann/AIC
+https://github.com/tobiaszwingmann/katacoda-scenarios
+https://github.com/tobiaszwingmann/small-data-image-classifier
+https://github.com/tobiaszwingmann/pdf-summarization
+https://github.com/tobiaszwingmann/ml-labs
+https://github.com/yongyong/run-jetty-run
+https://github.com/yongyong/yongyong.github.com
+https://github.com/yongyong/myblog
+https://github.com/yongyong/nfs-rpc

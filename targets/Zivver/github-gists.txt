@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/chriss/971344/raw/d1008db7b1887aca51631b07cfdaff8d944b9d6a/.vimrc

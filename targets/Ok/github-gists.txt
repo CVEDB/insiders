@@ -1,0 +1,16 @@
+https://gist.githubusercontent.com/aloksingh/a23e58ad2bdd6fe7ff3b21ed1d8824c0/raw/574335c2a3be01a3d3001ff6dda8bb83bdb9b424/hello.sh
+https://gist.githubusercontent.com/aloksingh/ce190e4fa5d0ce6861a7fe47a51493d5/raw/4478d0d9e82d7f7155aa0a6c43c37c1c47720df4/htc_exchange_lat_long.csv
+https://gist.githubusercontent.com/aloksingh/5425408/raw/ec9b131e197c564c812d85fc56e77af56702d06b/gistfile1.txt
+https://gist.githubusercontent.com/aloksingh/2967966/raw/cf9c146a10d2bcec31efc8616689ff119711a299/gistfile1.txt
+https://gist.githubusercontent.com/aloksingh/2967927/raw/b390ec300eb5d6c89e6b609876cbdf43e179fb49/gistfile1.txt
+https://gist.githubusercontent.com/aloksingh/2957306/raw/7e8b220a2cf11902d91c7861d624fcf31b683fd5/gistfile1.txt
+https://gist.githubusercontent.com/aloksingh/2727363/raw/d46ea114a7275e5fcf48293803a83d9e5a1ea397/gistfile1.txt
+https://gist.githubusercontent.com/jenniferok/e6d7836076e14779a243/raw/2b8a5ccf55d94d29328a24ef3913ffb54841429c/0_reuse_code.js
+https://gist.githubusercontent.com/jenniferok/e6d7836076e14779a243/raw/b16d3e65da4810d1bf24fd231028f3775f7dcede/1_ruby_quicksort.rb
+https://gist.githubusercontent.com/jenniferok/e6d7836076e14779a243/raw/df51b18a3a36024d04f9348bd4e24f6991e41a02/2_keyboard_shortcuts.md
+https://gist.githubusercontent.com/jenniferok/e6d7836076e14779a243/raw/f030315106c2b8dc0f52ad861f67223f88d4e35f/3_cheesecake_recipe.md
+https://gist.githubusercontent.com/michaelwillis/fb0d0f5144edc59fbcf5b1c9a52fd00d/raw/d80bd2345a55ec4ba4cd3632167dcdefd8bde4f1/extract-channels
+https://gist.githubusercontent.com/michaelwillis/dd7ec6b8e529d0b9823681af43ce1fce/raw/017539b241ac6d69e1310cf17a2e67e1a8dc4e02/DistrhoPluginVST.cpp
+https://gist.githubusercontent.com/michaelwillis/dd7ec6b8e529d0b9823681af43ce1fce/raw/afa9dcc79552e8e4b5bd2d46ce0e8af8bcf6ef6e/DistrhoUIInternal%20Snippet
+https://gist.githubusercontent.com/michaelwillis/dd7ec6b8e529d0b9823681af43ce1fce/raw/3869d29ba9dd7f1e4814f395b1631841e2fe9637/Example%20Output
+https://gist.githubusercontent.com/michaelwillis/f7593a341b77a0cd3d2a/raw/8631d44d6eecf1b61f52687afa4594feab7bdf96/alphabet-cipher.clj

@@ -1,0 +1,6 @@
+https://github.com/MarcMarc/dotfiles
+https://github.com/minas/Nettle
+https://github.com/NormandLemay/motcacher
+https://github.com/NormandLemay/mot_cache_v2
+https://github.com/NormandLemay/log210
+https://github.com/NormandLemay/tasting

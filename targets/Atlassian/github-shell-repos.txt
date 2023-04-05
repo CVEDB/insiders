@@ -1,0 +1,2 @@
+https://github.com/elim/dotfiles
+https://github.com/elim/habitica-auto-quest-accepter

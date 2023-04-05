@@ -1,0 +1,15 @@
+https://github.com/daraghmcgrath/git-course
+https://github.com/ShifatHossain/PDT_GSR_HbA1c
+https://github.com/ShifatHossain/MicroScript-scripting-language
+https://github.com/ShifatHossain/HWPLibre
+https://github.com/ShifatHossain/Combat-bot
+https://github.com/ShifatHossain/research-datasets
+https://github.com/ShifatHossain/ShifatHossain.github.io
+https://github.com/ShifatHossain/Heartbeat-measurement-device
+https://github.com/ShifatHossain/AFE4404-tri-PPG
+https://github.com/ShifatHossain/Automated-bottle-filling-machine
+https://github.com/ShifatHossain/hba1c_BLM
+https://github.com/ShifatHossain/omegaTE
+https://github.com/ShifatHossain/BL-PD-SourceComparison
+https://github.com/ShifatHossain/VDK_CNNet
+https://github.com/ShifatHossain/CNC-machine

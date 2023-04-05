@@ -1,0 +1,6 @@
+https://github.com/sebastianwagner/alditalk
+https://github.com/sebastianwagner/lxcgen
+https://github.com/sebastianwagner/cookiedel
+https://github.com/sebastianwagner/headset
+https://github.com/sebastianwagner/covid-mopo-numbers
+https://github.com/sebastianwagner/debianMultimediaTranscodeDocker

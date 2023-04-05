@@ -1,0 +1,3 @@
+https://github.com/dongli/obsolete-packman
+https://github.com/dongli/docker-jupyterhub
+https://github.com/TaylorChen/windows_auto_ftp

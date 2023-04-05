@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/davidstelter/2cfb27fd29ce5fcb241fb656656f0d4a/raw/12cbbc57758de05beba9ce67d1d819445b733a30/init.vim
+https://gist.githubusercontent.com/davidstelter/825c2f3443fd4ce963bdab9f9cde0815/raw/ed39ca46230dfa16b12aeefd2ce8a30aeee53eaa/keybase.md

@@ -1,0 +1,9 @@
+https://github.com/blender/blender
+https://github.com/blender/blender-addons
+https://github.com/blender/blender-addons-contrib
+https://github.com/blender/blender-dev-tools
+https://github.com/blender/docs.blender.org
+https://github.com/blender/cycles
+https://github.com/blender/blender-translations
+https://github.com/blender/mediawiki-bootstrap
+https://github.com/blender/saleor-vatrc

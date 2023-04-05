@@ -1,0 +1,2 @@
+https://github.com/floriank/blog
+https://github.com/floriank/dotfiles

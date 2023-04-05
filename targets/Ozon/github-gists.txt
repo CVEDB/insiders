@@ -1,0 +1,17 @@
+https://gist.githubusercontent.com/AlexeyBaranov/207471bd1747fecc11e3/raw/88e7e15399870f4f9268215079db9725dc14ab9f/Collection.java
+https://gist.githubusercontent.com/AlexeyBaranov/207471bd1747fecc11e3/raw/fd4b5d3fb3900daf6e1edff89ae915bcdff7a6b1/MapApplication.java
+https://gist.githubusercontent.com/AlexeyBaranov/207471bd1747fecc11e3/raw/ff34bfeff5a3fd816e7eae5c228fda452eb179c4/Npe.java
+https://gist.githubusercontent.com/andymitrich/880c0319ae9cfedfe6ca/raw/bc6f70b0f81c1012bc4c177b0bb9c60e880e1d0b/kuhn.cpp
+https://gist.githubusercontent.com/andymitrich/ba2baf748311aa38f454/raw/a680f1a30c74621cee26c6a54e603daa6e88af2f/pyvenv-3.4%20pip
+https://gist.githubusercontent.com/andymitrich/8c171c074d7f6c84eb19/raw/c641b74a933b5805812d087addfe805d8b8412de/.bowerrc
+https://gist.githubusercontent.com/andymitrich/124fa24891e8525ce1c8/raw/9d097db65e68380efc345de6accf1fbd58d6f4fa/django_log_settings.py
+https://gist.githubusercontent.com/andymitrich/11281167/raw/ff984272e303e01f4b9ef23b76b6f36ee0dc6ee2/stepic
+https://gist.githubusercontent.com/andymitrich/9309088/raw/a561d24e6a6d91c0d2c8eeed8cd16a5cf68f057e/parseUrl
+https://gist.githubusercontent.com/MichaelMayorov/5a5e4c349c741618fb0c9ed3caea5d7d/raw/745076f86fc867b3384c1c7641965f2aa4e5579f/redmine-fcgi
+https://gist.githubusercontent.com/MichaelMayorov/05e0194afd2736ce465471d426cb2e8d/raw/c717fca4e48ea1d0d1f5001cc133848d80812f5c/Untitled.ipynb
+https://gist.githubusercontent.com/MichaelMayorov/8582993/raw/53047fec309b276daa5d6b8bb63e768f3ac9b968/DSfix.ini
+https://gist.githubusercontent.com/MichaelMayorov/6187067/raw/7db2940b1aa36cc727b7b026de4b067bc703e5f5/copy.sh
+https://gist.githubusercontent.com/MichaelMayorov/5589799/raw/097916822070afad69c995d0eb2a3dc3050dc10c/update_player_stat.py
+https://gist.githubusercontent.com/MichaelMayorov/5476434/raw/b63380dd2de5ea48362f9bb1b89aa3600979fc8f/ampserver_example.py
+https://gist.githubusercontent.com/MichaelMayorov/4119766/raw/ccfeef18ef01af6c79b16e6a83250615f4181a80/jury_emulator.py
+https://gist.githubusercontent.com/MichaelMayorov/4116862/raw/3df7eaa25821eacbd3d1ac21c497019dacfc890b/post_flags.py

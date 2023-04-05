@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/alexli/94326b1494405790445ba0433ced6cf5/raw/d73c9719fdbe0cf0d8970268e58b89f3da178c61/dnsmasq%20OS%20X.md
+https://gist.githubusercontent.com/alexli/f52c93948298eb31f84d/raw/abb13cbd4d464ce2bdf2ef05743139d804cbb85d/utmstrip.user.js

@@ -1,0 +1,9 @@
+https://github.com/danielfajardo/mbd-d3js-alcohol
+https://github.com/danielfajardo/mbd-d3js-temperatures
+https://github.com/danielfajardo/demo-excel
+https://github.com/danielfajardo/demo-bridge
+https://github.com/JakubZakrzewski/School
+https://github.com/JeremyWelch/git-test
+https://github.com/leethomas/countdown
+https://github.com/leethomas/logbook-rs
+https://github.com/noahlee/noah

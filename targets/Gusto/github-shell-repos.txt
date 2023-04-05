@@ -1,0 +1,2 @@
+https://github.com/danicat/oxford-ai-gcp
+https://github.com/danicat/dotfiles

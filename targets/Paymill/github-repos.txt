@@ -1,0 +1,8 @@
+https://github.com/bharatsewani/angular-demo
+https://github.com/bharatsewani/GitBasics
+https://github.com/bharatsewani/flight-inspiration-search
+https://github.com/bharatsewani/ShoppingCart
+https://github.com/CorentinGuillemard/pinteresting
+https://github.com/MichaelRupp/HelloWorld
+https://github.com/tschelabaumann/PHPUnit-MockHelper
+https://github.com/tschelabaumann/paymill-bgcokehack
