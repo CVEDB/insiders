@@ -19,8 +19,6 @@ Company employees' accounts, especially online git repositories, can leak sensit
 
 A [CVEDB](https://cvedb.github.io) workflow collects a list of targets, enumerates their employees, collects their data, cleans it up, and pushes it to this repository.
 
-![CVEDB Workflow - Hostnames](insiders.png "CVEDB Workflow - Inventory")
-
 ### TB; DZ (Too big; didn't zoom)
 
 - Get the initial list of target names from [Project Discovery's Chaos dataset](https://chaos.projectdiscovery.io/) (Thanks, [ProjectDiscovery](https://github.com/projectdiscovery))
