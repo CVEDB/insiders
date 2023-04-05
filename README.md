@@ -14,7 +14,6 @@ Company employees' accounts, especially online git repositories, can leak sensit
 │   │   └── README.md                            # Markdown file containing multiple statistics describing the collected data
 ```
 
-[<img src="./banner.png" />](https://CVEDB-access.paperform.co/)
 
 ## How it works
 
